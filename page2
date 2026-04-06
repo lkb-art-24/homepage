@@ -1,5 +1,124 @@
+<!DOCTYPE html>
 <html>
 <head>
-This is another 
+<style>
+      body {
+Background-image: url('https://lkb-art-24.github.io/homepage/images/108129-light-blue-wave.jpg');
+background-repeat: repeat;
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+      color: blue;
+      fontsize: 32px;
+      font-family: "Times New Roman", Times, serif;
+      }
+</style>
 </head>
+<body>
+
+<h1>I love blue!</h1>
+<p>Here are some colors.</p>
+<div>&#9774;&#9774;&#9774;</div>
+
+</body>
 </html>
+  <br><br><br>
+  <table>
+    <tr>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/blueberry.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/book.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/bowl.jpg" width="300px" height="300px">
+      </th>
+      <th>
+      <img src="https://lkb-art-24.github.io/homepage/images/cults.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/dolphin.JPG" width="300px" height="300px">
+      </th>
+    </tr>
+    <tr>
+      <th>
+      <img src="https://lkb-art-24.github.io/homepage/images/train.GIF" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/mad.JPG" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/friend.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/boca.jpg" width="300px" height="300px">
+      </th>
+        <th>
+          <img src="https://lkb-art-24.github.io/homepage/images/maria.jpg" width="300px" height="300px">
+        </th>
+    </tr>
+    <tr>
+      <th>
+      <img src="https://lkb-art-24.github.io/homepage/images/hand.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/more.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/ocean.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/ellie.jpg" width="300px" height="300px">
+      </th>
+        <th>
+          <img src="https://lkb-art-24.github.io/homepage/images/paint.jpg" width="300px" height="300px">
+        </th>
+    </tr>
+    <tr>
+      <th>
+      <img src="https://lkb-art-24.github.io/homepage/images/win.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/star.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/shine.GIF" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/shark.jpg" width="300px" height="300px">
+      </th>
+        <th>
+          <img src="https://lkb-art-24.github.io/homepage/images/lego.JPG" width="300px" height="300px">
+        </th>
+    </tr>
+     <tr>
+      <th>
+      <img src="https://lkb-art-24.github.io/homepage/images/makeup.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/sish.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/orangecat.jpg" width="300px" height="300px">
+      </th>
+      <th>
+        <img src="https://lkb-art-24.github.io/homepage/images/icecream.jpg" width="300px" height="300px">
+      </th>
+        <th>
+          <img src="https://lkb-art-24.github.io/homepage/images/funny.JPG" width="300px" height="300px">
+        </th>
+    </tr>
+  </table>
+  </body>
+  <br><br><br><br><br>
+<body>
+      <a href="https://lkb-art-24/homepage/page2.html”>Click
+here.</a>
+</body>
+</html>
+
+</body>
+</html>
+
