@@ -12,6 +12,7 @@ div {text-align: center;}
       color: blue;
       fontsize: 32px;
       font-family: "Times New Roman", Times, serif;
+</style>
       }
   <br><br><br>
   <table>
