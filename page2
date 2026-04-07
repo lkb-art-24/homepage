@@ -14,13 +14,11 @@ background-repeat: repeat;
         <img src="https://lkb-art-24.github.io/homepage/images/alicetrying.gif" width="350px" height="500">
 </th>
       <th>
-        <img src="https://lkb-art-24.github.io/homepage/images/boca.jpg" width="430px" height="300">
 </th>
       <th>
         <img src="https://lkb-art-24.github.io/homepage/images/teachtrying.gif" width="300px" height="450px">
       </th>
       <th>
-      <img src="https://lkb-art-24.github.io/homepage/images/tryinga.gif">
       </th>
       <th>
         <img src="https://lkb-art-24.github.io/homepage/images/arttrying.gif" width="300px" height="300px">
@@ -28,12 +26,25 @@ background-repeat: repeat;
     </tr>
 <tr>
 <th>
+</th>
 <img src="https://lkb-art-24.github.io/homepage/images/ellie.jpg" width="300px" height="400px"
 </th>
 <th>
+</th>
+<th>
 <img src="https://lkb-art-24.github.io/homepage/images/friend.jpg" width="350px" height="500">
-
-
+</th>
+<th>
+</th>
+</tr>
+<tr>
+<th>
+ <img src="https://lkb-art-24.github.io/homepage/images/boca.jpg" width="430px" height="300">
+</th>
+<th>
+<img src="https://lkb-art-24.github.io/homepage/images/tryinga.gif">
+</th>
+</tr>
   </table>
   </body>
 </html>
