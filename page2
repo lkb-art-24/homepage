@@ -5,20 +5,13 @@
       body {
 Background-image: url('https://lkb-art-24.github.io/homepage/images/Bazaart.jpeg');
 background-repeat: repeat;
-
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-      color: blue;
-      fontsize: 32px;
-      font-family: "Times New Roman", Times, serif;
+}
 </style>
-      }
   <br><br><br>
   <table>
     <tr>
       <th>
-        <img src="https://lkb-art-24.github.io/homepage/images/alicetrying.gif">
+        <img src="https://lkb-art-24.github.io/homepage/images/alicetrying.gif"> width="600px" height="800">
 </th>
       <th>
         <img src="https://lkb-art-24.github.io/homepage/images/arttrying.gif">
