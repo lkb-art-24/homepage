@@ -7,16 +7,15 @@ Background-image: url('https://lkb-art-24.github.io/homepage/images/Bazaart.jpeg
 background-repeat: repeat;
 }
 </style>
-  <br><br><br>
   <table>
     <tr>
       <th>
         <img src="https://lkb-art-24.github.io/homepage/images/alicetrying.gif" width="350px" height="500">
 </th>
-      <th>
+<th>
 </th>
-      <th>
-        <img src="https://lkb-art-24.github.io/homepage/images/teachtrying.gif" width="300px" height="450px">
+ <th>
+<img src="https://lkb-art-24.github.io/homepage/images/teachtrying.gif" width="300px" height="450px">
       </th>
       <th>
       </th>
