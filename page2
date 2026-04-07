@@ -13,14 +13,6 @@ div {text-align: center;}
       fontsize: 32px;
       font-family: "Times New Roman", Times, serif;
       }
-</style>
-</head>
-<body>
-
-<h1>I love blue!</h1>
-<p>Here are some colors.</p>
-<div>&#9774;&#9774;&#9774;</div>
-
 </body>
 </html>
   <br><br><br>
